@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+data/
+config.json
+seen_posts.json
+routes.json
+telegraph_token.json
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
