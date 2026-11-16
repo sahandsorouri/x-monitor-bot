@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/sahandsorouri/sahandsorouri/main/assets/banner.svg" alt="Sahand Sorouri" width="100%">
+
 # X Monitor Bot
 
 A Telegram bot that watches chosen X (Twitter) accounts and posts their new posts to a Telegram chat, group or channel. It reads public feeds (FxTwitter first, then Nitter forks), so no X account or API key is needed.
